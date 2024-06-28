@@ -175,9 +175,14 @@ p.description {
     color: white;
     
 }
-.explanation-area {
+.explanation-area.js_typing {
     color: white;
     display: block;
+    font-size: 30px;
+    /* 画像の上部にスペースを追加 */
+    margin-top: 50px; 
+    /* 画像の下部にスペースを追加 */
+    margin-bottom: 50px; 
 }
 /* 灰色バナーのスタイル */
 .toc-banner {
